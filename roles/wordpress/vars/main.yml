@@ -1,2 +1,3 @@
 ---
 # vars file for wordpress
+wordpress_path: /var/www/html
